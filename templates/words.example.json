@@ -1,0 +1,12 @@
+[
+  {
+    "start": 0.1,
+    "end": 0.4,
+    "text": "Example"
+  },
+  {
+    "start": 0.5,
+    "end": 0.9,
+    "text": "words"
+  }
+]

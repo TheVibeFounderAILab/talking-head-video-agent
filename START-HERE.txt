@@ -1,0 +1,16 @@
+Read README.md, AGENTS.md, SETUP.md and the learnings in this folder.
+Help me edit the talking-head clip I put in input/.
+
+Start by checking the tools available on my computer and inspecting the clip.
+Tell me what needs installing; use my existing tools where possible. Do not
+upload my media or transcript to another service without my explicit approval.
+
+Transcribe the entire source with timestamps. Pick a strong, self-contained
+opening, preserve what I actually said, and show me the proposed edit plan.
+Create a vertical preview with readable single-word captions that avoid my
+face. Keep the original footage and voice natural. No decorative B-roll.
+
+Use the bundled local helper when useful. Then build the editable preview
+with HyperFrames. Stop for my review before final rendering. After I approve,
+export three distinct opening-hook tests, the post caption, hooks.md and QA
+notes. Keep the same approved body unless I explicitly choose a story-order test.

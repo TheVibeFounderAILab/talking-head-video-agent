@@ -1,0 +1,9 @@
+/* Portable workshop preset. Use on a 1080x1920 composition. */
+@font-face { font-family: 'Anton'; src: url('../assets/fonts/Anton-Regular.ttf') format('truetype'); font-display: block; }
+.caption-word { position: absolute; left: 90px; width: 770px; max-width: 770px;
+  margin: 0; color: #fff; background: transparent; border: 0;
+  font: 400 112px/1.3 'Anton', sans-serif; letter-spacing: 0; text-align: center;
+  text-transform: uppercase; white-space: nowrap; -webkit-text-stroke: 0;
+  text-shadow: 0 0 20px rgba(0,0,0,.92); }
+/* Set top per shot. Check full word bounds and shadow inside x90..860/y320..1380.
+   Fit the longest word with one shared size. Never hide overflow or cover a face. */

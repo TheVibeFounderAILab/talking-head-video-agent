@@ -1,0 +1,150 @@
+{
+  "version": "1.0.1",
+  "files": [
+    {
+      "path": ".github/workflows/source-checks.yml",
+      "bytes": 472,
+      "sha256": "5187bbcb01e8c7064a9c4daa5edbab999a0de8068bfa82cf6334880d2d2e8202"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 296,
+      "sha256": "b530d62e990dfb0f895312e4c972ea680411ba322dc5c47c7e7d5f3c45b297ee"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 4152,
+      "sha256": "2aa6d32059f35b990507a569e5ae4b4a71cf7949c9ad4c9ef4574806048fd8fc"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 374,
+      "sha256": "8733caa4f694ef19fb4ccef4d38b921678061831d21d6cec49ac83e40b31d3a7"
+    },
+    {
+      "path": "CLAUDE.md",
+      "bytes": 92,
+      "sha256": "811a2c165f2f3256ed8b74965ef8968fa703a47cc6fdc6808119dee3b58049c9"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "bytes": 963,
+      "sha256": "f9a0cdda8d84e828cfd4b9c2f2cd18ea918a43396d298bd1b7fa74e54bff91e3"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1071,
+      "sha256": "0c5732430b0a1a90c856da6f19a05bd0415d1ae30941e33c2591be590da529d9"
+    },
+    {
+      "path": "PRIVACY.md",
+      "bytes": 1211,
+      "sha256": "1049ecff8426022bd877b9c718de0d35712c36753afc1182a3f39fd2d8b6a55d"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3715,
+      "sha256": "696e562ae0228b4f7eb8cccc935848357571024845ff17d628d545c9d4fd3cd9"
+    },
+    {
+      "path": "SETUP.md",
+      "bytes": 2386,
+      "sha256": "95c1b2c61b6f8534d317a5c0fae9107132c9f29abc2b14a1900fe1080c9461a4"
+    },
+    {
+      "path": "SOURCES.md",
+      "bytes": 848,
+      "sha256": "d827b5a39b2871220f276b0b6f628030be41eec45ecb2625fa1ddd3757d91b95"
+    },
+    {
+      "path": "START-HERE.txt",
+      "bytes": 968,
+      "sha256": "1e78258184c026bef3622cc1c288c5e93c864b865d7869d7e1e044c776161c5a"
+    },
+    {
+      "path": "assets/fonts/Anton-Regular.ttf",
+      "bytes": 170812,
+      "sha256": "a4ba3a92350ebb031da0cb47630ac49eb265082ca1bc0450442f4a83ab947cab"
+    },
+    {
+      "path": "assets/fonts/OFL.txt",
+      "bytes": 4484,
+      "sha256": "ee67e6ee22790b7929f1a3769ca2801d565c64b5a9096942c1adf5596de9c9e4"
+    },
+    {
+      "path": "caption-style/README.md",
+      "bytes": 798,
+      "sha256": "f35b96d2ae95ddffe9402c25dcdff83cc39a5752fd229ab5bdffb26e0012c9d6"
+    },
+    {
+      "path": "caption-style/captions.css",
+      "bytes": 698,
+      "sha256": "55e3d34011fe69b85a4d9f7ef780d6fe7e5bf876b1cfb7cf68348c7dd2ab5237"
+    },
+    {
+      "path": "final/README.md",
+      "bytes": 72,
+      "sha256": "92f3687da85dfc8ebbc903552383e66a524cfe9c0b1a289a31681cb3135ec1b6"
+    },
+    {
+      "path": "input/README.md",
+      "bytes": 60,
+      "sha256": "21aeb6c341d7174e520d8030a936df824c36d2b011d515cdd0fc654b646bf3a8"
+    },
+    {
+      "path": "learnings/EDITING.md",
+      "bytes": 1249,
+      "sha256": "53853846d4d4751e4709ca84d65b3aabea707d01c1265749eb22c9870a3c575c"
+    },
+    {
+      "path": "learnings/HOOKS.md",
+      "bytes": 862,
+      "sha256": "d174049713abd89f408c2ab3240e8c75aef77587b30111606334ecf64d89505c"
+    },
+    {
+      "path": "scripts/verify_release.py",
+      "bytes": 2701,
+      "sha256": "b710ab46fae7bb7a9548d171734799ea5f9d6fe191067ffd8b27db29f2eb7234"
+    },
+    {
+      "path": "templates/EDIT_PLAN.md",
+      "bytes": 336,
+      "sha256": "c3fdf820e1fff263e245f23964f966a723005e87ca837867718b0df6818ab6c1"
+    },
+    {
+      "path": "templates/hooks.md",
+      "bytes": 326,
+      "sha256": "9a0489f90c9b03e280403d3181e09069caac765fb76639b6e83e431c07c27d9c"
+    },
+    {
+      "path": "templates/plan.example.json",
+      "bytes": 287,
+      "sha256": "8cac15f66dcbb14d7e6cfc23c1014ff78a69c62c01f2151f3f9e6a9e2b52cc23"
+    },
+    {
+      "path": "templates/project.md",
+      "bytes": 267,
+      "sha256": "b04aa1ec499453031f1f52aef91ff169fae382d5c18609e72213ccab959c2457"
+    },
+    {
+      "path": "templates/qa.md",
+      "bytes": 829,
+      "sha256": "71846b24a5f2b6a4a5186086f722bdd1dd76c1b002dac40f549ef60c4df24fbf"
+    },
+    {
+      "path": "templates/words.example.json",
+      "bytes": 131,
+      "sha256": "f06c1fc33e4185e8c59ddb872f24f10ce244b7532f5984f516307a12433a3fce"
+    },
+    {
+      "path": "tools/video.py",
+      "bytes": 7039,
+      "sha256": "bee416380c1c92ea07fef0899d533eb4f02fa2f87cee1ba302d3a1cd4888ba2a"
+    },
+    {
+      "path": "work/README.md",
+      "bytes": 78,
+      "sha256": "e08708317028fe172308763e77d08b2fe749f12bedeb494bd6015d53640154d4"
+    }
+  ]
+}

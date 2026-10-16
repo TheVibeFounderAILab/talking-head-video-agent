@@ -1,0 +1,15 @@
+{
+  "source": "../input/clip.mp4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "reason": "Example only: replace with real verbatim source ranges"
+    },
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "reason": "Example only: second complete thought"
+    }
+  ]
+}
