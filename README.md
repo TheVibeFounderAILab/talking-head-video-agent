@@ -1,10 +1,9 @@
 # Talking Head Video Agent
 
-By [TheVibeFounder](https://github.com/thevibefounder), from
-[TheVibeFounder AI Lab](https://github.com/TheVibeFounderAILab).
+By [TheVibeFounder](https://github.com/thevibefounder).
 
-[Download the latest ZIP](https://github.com/TheVibeFounderAILab/talking-head-video-agent/releases/latest/download/talking-head-video-agent.zip)
-· [Release notes](https://github.com/TheVibeFounderAILab/talking-head-video-agent/releases)
+[Download the latest ZIP](https://github.com/thevibefounder/talking-head-video-agent/releases/latest/download/talking-head-video-agent.zip)
+· [Release notes](https://github.com/thevibefounder/talking-head-video-agent/releases)
 · [Chicago workshop](https://thevibefounder.com/chicago/ai-forge/)
 
 Chicago workshop edition · v1.0.1
